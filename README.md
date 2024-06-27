@@ -5,3 +5,4 @@ Basically, ESGLF is a LDR array meant to serve as a full packged sensor to follo
 It's going to cost something arround 50-60 dollars, it depends on the shipping, the board itself will cost like, 3 dollars for green and 14 if I choose other color
 
 This PCB idea started after I had many problems building the circuit 100% by hand. After a week or so the circuit started to fail and so, I started my journey on designing this PCB. The biggest challange was to design it as on a single layer, as I was planning to build the circuit by myself. It was a fun road and I'm glad how things turned out.
+(https://github.com/FranciscoNoble/ESGLF/blob/5090563b7a5d785e1099b66af0fa21a625b79f1e/PCB_PCB_ESGLF-01_4_2024-06-27%20(1).png)
